@@ -3,7 +3,7 @@
     $dbhost = '127.0.0.1';
     $dbuser = 'root';
     $dbpass = '';
-    $dbname = 'SaleSystem'; //也可以用 "" 
+    $dbname = 'SaleSystem';
     //$db_link = mysqli_connect( $dbhost, $dbuser, $dbpass, $dbname);
 	$db_link = @mysqli_connect( $dbhost, $dbuser, $dbpass);//未直接連線到所使用的資料庫
 	if (!$db_link) die("資料連結失敗！");
