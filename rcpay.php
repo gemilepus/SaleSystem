@@ -51,8 +51,8 @@ $total_pages = ceil($total_records/$pageRow_records);
                 <br>
                 <div class="sg-btn-group">
                     <button class="sg-btn sg-btn-default"><a href="index2.php">客戶資料表</a></button>
-                    <button class="sg-btn sg-btn-default"><a href="spbill.php">銷貨單號表</a></button>
-                    <button class="sg-btn sg-btn-default"><a href="splist.php">銷貨表</a></button>
+                    <button class="sg-btn sg-btn-default"><a href="spbill.php">銷貨表</a></button>
+                    <button class="sg-btn sg-btn-default"><a href="splist.php">訂單表</a></button>
                     <button class="sg-btn sg-btn-default"><a href="rcdtl.php">收款表</a></button>
                     <button class="sg-btn sg-btn-default"><a href="cuquout.php">商品報價表</a></button>
                     <button class="sg-btn sg-btn-default"><a href="rcpay.php">應收帳款表</a></button>
